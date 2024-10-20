@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\bin\Debug\Xadrez10.exe.config
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\bin\Debug\Xadrez10.exe
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\bin\Debug\Xadrez10.pdb
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\obj\Debug\Xadrez10.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\obj\Debug\Xadrez10.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\obj\Debug\Xadrez10.exe
+C:\Users\paulo\source\repos\Xadrez14\Criacao de um xadrez\Xadrez10\Xadrez10\obj\Debug\Xadrez10.pdb
